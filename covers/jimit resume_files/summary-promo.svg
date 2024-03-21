@@ -1,0 +1,104 @@
+<svg width="320"
+     height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <rect width="320" height="180" transform="translate(0 0.00012207)" fill="white" />
+    <rect x="25" y="19.9999" width="45" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="158" y="20.0001" width="123" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="75" y="20.0001" width="78" height="7" rx="3.5" fill="#8AB4F8" />
+    <rect x="25" y="119" width="235" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="25" y="137" width="268" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="25" y="155" width="254" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="25" y="173" width="268" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="25" y="37.9999" width="268" height="7" rx="3.5" fill="#F1F3F4" />
+    <rect x="25" y="54.9999" width="254" height="7" rx="3.5" fill="#F1F3F4" />
+    <g filter="url(#filter0_dddd)">
+      <rect x="75" y="27.0001" width="169.839" height="135" rx="8" fill="white" />
+      <path d="M109 45.0001C109 47.2093 110.791 49.0001 113 49.0001H198C200.209 49.0001 202 47.2093 202 45.0001C202 42.791 200.209 41.0001 198 41.0001H113C110.791 41.0001 109 42.791 109 45.0001Z"
+            fill="#CDD0D5" />
+      <rect width="127" height="6" rx="3" transform="matrix(1 0 0 -1 109 133)" fill="#4285F4" />
+      <path d="M100.857 130.135L100.093 128.394L98.4072 127.604L100.093 126.814L100.857 125.073L101.621 126.814L103.306 127.604L101.621 128.394L100.857 130.135Z"
+            fill="#4285F4" />
+      <path d="M96.4476 136.21L95.2195 133.429L92.5282 132.16L95.2195 130.891L96.4476 128.11L97.6756 130.891L100.367 132.16L97.6756 133.429L96.4476 136.21Z"
+            fill="#4285F4" />
+      <path d="M89.5887 131.148H87.629V133.173H89.5887V131.148Z" fill="#4285F4" />
+      <path d="M87.629 135.198H89.5887V137.223H87.629V135.198Z" fill="#4285F4" />
+      <path d="M89.5887 139.248H87.629V141.273H89.5887V139.248Z" fill="#4285F4" />
+      <path d="M85.6693 127.098H93.508V129.123H85.6693L85.6693 143.298H99.3871V135.198H101.347V143.298C101.347 144.416 100.469 145.323 99.3871 145.323H85.6693C84.587 145.323 83.7097 144.416 83.7097 143.298V129.123C83.7097 128.004 84.587 127.098 85.6693 127.098Z"
+            fill="#4285F4" />
+      <rect width="87" height="6" rx="3" transform="matrix(1 0 0 -1 109 145)" fill="#4285F4" />
+      <path fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M98.2258 36.4077H85.5242C84.5262 36.4077 83.7097 37.2703 83.7097 38.3246V51.7432C83.7097 52.7975 84.5262 53.6601 85.5242 53.6601H98.2258C99.2238 53.6601 100.04 52.7975 100.04 51.7432V38.3246C100.04 37.2703 99.2238 36.4077 98.2258 36.4077ZM96.4204 42.1585H87.3387V40.2416H96.4204V42.1585ZM96.4204 45.9924H87.3387V44.0754H96.4204V45.9924ZM93.6986 49.8262H87.3387V47.9093H93.6986V49.8262Z"
+            fill="#C7CAD0" />
+      <rect x="75.5" y="27.5001" width="168.839" height="134" rx="7.5" stroke="white" />
+    </g>
+    <g clip-path="url(#clip1)">
+      <rect x="83.9999" y="61.8386" width="152.419" height="52.2581" rx="4" fill="#CDD0D5" />
+      <rect x="109.29" y="70.8386" width="102" height="48.1611" rx="4" fill="white" />
+      <rect width="26"
+            height="2" rx="1" transform="matrix(1 0 0 -1 124.29 89.9995)" fill="#DADCE0" />
+      <rect width="21"
+            height="2" rx="1" transform="matrix(1 0 0 -1 124.29 94.9995)" fill="#DADCE0" />
+      <rect width="72"
+            height="2" rx="1" transform="matrix(1 0 0 -1 124.29 101.395)" fill="#DADCE0" />
+      <rect width="72"
+            height="2" rx="1" transform="matrix(1 0 0 -1 124.29 106.395)" fill="#DADCE0" />
+      <rect width="72"
+            height="2" rx="1" transform="matrix(1 0 0 -1 124.29 111.395)" fill="#DADCE0" />
+    </g>
+  </g>
+  <defs>
+    <filter id="filter0_dddd"
+            x="64"
+            y="13.0001"
+            width="191.839"
+            height="166"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha"
+                     type="matrix"
+                     values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dy="-3" />
+      <feGaussianBlur stdDeviation="5.5" />
+      <feColorMatrix type="matrix"
+                     values="0 0 0 0 0.501961 0 0 0 0 0.52549 0 0 0 0 0.545098 0 0 0 0.09 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feColorMatrix in="SourceAlpha"
+                     type="matrix"
+                     values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dy="6" />
+      <feGaussianBlur stdDeviation="5.5" />
+      <feColorMatrix type="matrix"
+                     values="0 0 0 0 0.501961 0 0 0 0 0.52549 0 0 0 0 0.545098 0 0 0 0.06 0" />
+      <feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow" />
+      <feColorMatrix in="SourceAlpha"
+                     type="matrix"
+                     values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dy="1" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feColorMatrix type="matrix"
+                     values="0 0 0 0 0.235294 0 0 0 0 0.25098 0 0 0 0 0.262745 0 0 0 0.3 0" />
+      <feBlend mode="normal" in2="effect2_dropShadow" result="effect3_dropShadow" />
+      <feColorMatrix in="SourceAlpha"
+                     type="matrix"
+                     values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dy="4" />
+      <feGaussianBlur stdDeviation="4" />
+      <feColorMatrix type="matrix"
+                     values="0 0 0 0 0.235294 0 0 0 0 0.25098 0 0 0 0 0.262745 0 0 0 0.15 0" />
+      <feBlend mode="normal" in2="effect3_dropShadow" result="effect4_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect4_dropShadow" result="shape" />
+    </filter>
+    <clipPath id="clip0">
+      <rect width="320" height="180" fill="white" transform="translate(0 0.00012207)" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="83.9999" y="61.8386" width="152.419" height="52.2581" rx="4" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
